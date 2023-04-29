@@ -1,7 +1,5 @@
 
 # NLP_Project - Aspect Term Polarity Classification
-
-# Names of the students
 ### Authors: Leonardo Basili, Jackson Burke, Nicolò Giacopelli
 
 ## Introduction
