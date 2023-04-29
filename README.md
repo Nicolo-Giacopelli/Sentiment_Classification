@@ -2,7 +2,7 @@
 # NLP_Project - Aspect Term Polarity Classification
 
 # Names of the students
-### Authors: Leonardo Basili, Jackson Burke, Lucrezia Certo, Nicolò Giacopelli
+### Authors: Leonardo Basili, Jackson Burke, Nicolò Giacopelli
 
 ## Introduction
 The aim of this project is to implement a classifier that is able to predict opinion polarities of given aspect terms in sentences. That is whether a specific part of the sentence represents a positive, negative or neutral opinion.
